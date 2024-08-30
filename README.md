@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zs-3
-- 👀 I’m interested in C,CSHARP and Small Basic 
-- 🌱 I’m currently learning C and CSHARP 
-- 💞️ I’m looking to collaborate on Any good repo of C and CSHARP 
+- 👀 I’m interested in C , C++ , CSHARP and Small Basic 
+- 🌱 I’m currently learning C , C++ and CSHARP 
+- 💞️ I’m looking to collaborate on Any good repo of C , C++ and CSHARP 
 - 📫 How to reach me you can reach me at zs.co.org@gmail.com
 - 😄 Pronouns: ZS
 - ⚡ Fun fact: indie programer 
