@@ -5,7 +5,6 @@
 - 📫 How to reach me you can reach me at zs.co.org@gmail.com
 - 😄 Pronouns: ZS
 - ⚡ Fun fact: indie programer
-- ⚡ Member of @zs-org 
 
 <!---
 zs-3/zs-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
