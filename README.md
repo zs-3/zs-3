@@ -42,18 +42,13 @@
 
 ---
 
-## 🐍 Contribution Graph (Snake Animation)
-<p align="center">
-  <img src="https://github.com/zs-3/zs-3/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light"/>
-  <img src="https://github.com/zs-3/zs-3/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark"/>
-</p>
 
 ---
 
 ## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github.com/zs-3/zs-3/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ---
 
