@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 📫 Reach me at **zsorg34@gmail.com**
 - 😄 Pronouns: **ZS**
 - ⚡ Fun fact: **Indie Programmer**
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 GitHub Stats
+## 🚀 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zs-3&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zs-3&theme=tokyonight" alt="GitHub Streak" height="180px"/>
@@ -24,14 +24,14 @@
 
 ---
 
-### 📊 Most Used Languages
+## 📊 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zs-3&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python"/>
@@ -42,14 +42,34 @@
 
 ---
 
-### 🎯 Contribution Graph
+## 🐍 Contribution Graph (Snake Animation)
+<p align="center">
+  <img src="https://github.com/zs-3/zs-3/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light"/>
+  <img src="https://github.com/zs-3/zs-3/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark"/>
+</p>
+
+---
+
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github.com/zs-3/zs-3/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+---
+
+## 🚀 Latest Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zs-3&repo=YOUR_REPO_NAME&theme=tokyonight)](https://github.com/zs-3/YOUR_REPO_NAME)
+
+---
+
+## 🎯 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zs-3&theme=tokyonight" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-### 🔥 Fun Stats
+## 🔥 Fun Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zs-3&theme=tokyonight" alt="Profile Summary"/>
   <img src="https://github-profile-trophy.vercel.app/?username=zs-3&theme=tokyonight&row=1&no-frame=true" alt="Trophies"/>
