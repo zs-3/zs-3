@@ -52,10 +52,7 @@
 
 ---
 
-## 🚀 Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zs-3&repo=YOUR_REPO_NAME&theme=tokyonight)](https://github.com/zs-3/YOUR_REPO_NAME)
 
----
 
 ## 🎯 Contribution Graph
 <p align="center">
