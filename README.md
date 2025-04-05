@@ -42,17 +42,12 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="dist/github-snake.svg" alt="Snake animation" />
+</p>
 
 ---
-
-## 📊 GitHub Metrics
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
----
-
-
 
 ## 🎯 Contribution Graph
 <p align="center">
