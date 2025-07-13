@@ -8,36 +8,13 @@
 
 ---
 
+## 👨‍💻 About Me
+- 📫 Reach me at **zsorg34@gmail.com**
+- 😄 Pronouns: **ZS**
+- ⚡ Fun fact: **Indie Programmer**
+- 🏆 Member of [@zs-org](https://github.com/zs-org)
 
-<div align="center">
-
-<table>
-  <tr>
-    <!-- Left Column: About Me -->
-    <td style="vertical-align: top; width: 50%;">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>📫 Reach me at <strong>zsorg34@gmail.com</strong></li>
-        <li>😄 Pronouns: <strong>ZS</strong></li>
-        <li>⚡ Fun fact: <strong>Indie Programmer</strong></li>
-        <li>🏆 Member of <a href="https://github.com/zs-org">@zs-org</a></li>
-      </ul>
-    </td>
-    <!-- Right Column: Video -->
-    <td style="vertical-align: top; width: 50%;">
-      <h2>🎵 My Favorite Song</h2>
-      <video controls style="max-width: 100%; height: auto;">
-        <source src="https://github.com/user-attachments/assets/450fb7d0-c667-4193-a96d-0cec049f0621" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
+---
 
 ## 🚀 GitHub Stats
 <p align="center">
@@ -46,6 +23,13 @@
 </p>
 
 ---
+
+## 🎵 My Favorite Song
+
+https://github.com/user-attachments/assets/67c19ffd-da68-4de2-af38-599436275ab4
+
+---
+
 
 ## 📊 Most Used Languages
 
