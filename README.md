@@ -9,46 +9,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 📫 Reach me at **zsorg34@gmail.com**
+- 📫 Reach me at **hello@ziyaad.net**
 - 😄 Pronouns: **ZS**
 - ⚡ Fun fact: **Indie Programmer**
-- 🏆 Member of [@zs-org](https://github.com/zs-org)
+- 🏆 Founder of [@intentfreedomain](https://github.com/intentfreedomain)
 
----
-
-## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zs-3&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zs-3&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>
-
----
-
-## 🎵 My Favorite Song
-
-https://github.com/user-attachments/assets/67c19ffd-da68-4de2-af38-599436275ab4
-
----
-
-
-## 📊 Most Used Languages
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zs-3&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
----
-
-## 🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-orange?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Tools-Git-red?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/OS-Linux-green?style=flat-square&logo=linux"/>
-</p>
 
 ---
 
@@ -59,17 +24,25 @@ https://github.com/user-attachments/assets/67c19ffd-da68-4de2-af38-599436275ab4
 
 ---
 
-## 🎯 Contribution Graph
+## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zs-3&theme=tokyonight" alt="GitHub Contribution Graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=zs-3&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" height="480px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zs-3&theme=tokyonight-duo&card_width=440&card_height=440&background=45%2C8838D1%2CD6BE65&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak""/>
 </p>
 
----
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zs-3&theme=prussian&animation=sequence" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zs-3&theme=prussian&animation=sequence" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zs-3&theme=prussian&animation=sequence" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zs-3&theme=prussian&animation=sequence&utcOffset=0" /></td>
+  </tr>
+</table>
 
-## 🔥 Fun Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zs-3&theme=tokyonight" alt="Profile Summary"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zs-3&theme=tokyonight&row=1&no-frame=true" alt="Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zs-3&theme=prussian&animation=sequence" alt="Profile Summary"/>
 </p>
 
 ---
