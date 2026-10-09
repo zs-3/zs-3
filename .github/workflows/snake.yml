@@ -17,12 +17,23 @@ jobs:
         with:
           github_user_name: zs-3
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=%2322d3ee&color_dots=%231c2030,%234c3a9e,%237c5cf0,%23a78bfa,%2322d3ee
 
-      - name: Commit and push SVG
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build profile SVG (live stats + snake embedded)
+        run: python scripts/build_profile.py
+        env:
+          PROFILE_USER: zs-3
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVGs
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dist/github-snake.svg
-          git commit -m "🐍 Update GitHub contribution snake" || echo "No changes to commit"
+          git add dist/github-snake.svg assets/profile.svg
+          git commit -m "🐍 Update snake + profile" || echo "No changes to commit"
           git push
